@@ -1,2 +1,3 @@
 # simpleTGbot
-a very simple Telegram chatbot
+a Telegram chatbot simple af
+you can use with Heroku
